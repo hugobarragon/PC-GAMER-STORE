@@ -1,0 +1,42 @@
+* { padding: 0; margin: 0;
+    text-align: center;
+    font-family: Normal;
+}
+
+body {
+	margin: 0; 	padding: 0;
+	font: normal 12px Verdana,Geneva,sans-serif; 	
+	height: 100%;
+	
+}
+
+input.button { 
+	margin: 1px 0; 
+	font: bold 1em Arial, Sans-serif;
+	padding: 1px 3px; 
+	color: #333;
+	border: solid 1px #b7b7b7;
+	background: #fff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ededed));
+	background: -moz-linear-gradient(top,  #fff,  #ededed);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed');
+
+}
+input.button:hover {
+	background: #ededed;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#dcdcdc));
+	background: -moz-linear-gradient(top,  #fff,  #dcdcdc);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#dcdcdc');
+}
+input.button:active {
+	color: #999;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#fff));
+	background: -moz-linear-gradient(top,  #ededed,  #fff);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#ffffff');
+}
+
+.tbox {position:absolute; display:none; padding:5px 5px; z-index:900;background-color:gray;}
+.tinner {padding:0px;  border:5px solid #e3e3e3; }
+.tmask {position:absolute; display:none; top:0px; left:0px; height:100%; width:100%; background:#000; z-index:800}
+.tclose {position:absolute; top:-10px; right:-10px;  width:30px; height:30px; cursor:pointer; background-image: url("images/close.png"); 
+.tclose:hover {background-position:0 -30px }

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>cssSlider</AppName>
+            <AppUrlS>cssSlider.com</AppUrlS>
+            <AppVersion>1.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryDesc></GalleryDesc>
+            <GalleryKeywords></GalleryKeywords>
+            <GalleryName>SliderProject</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <GalleryTitle></GalleryTitle>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>650</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>:/templates/backgnd/basic/</ImageTemplate>
+            <ImageTemplateName>Basic</ImageTemplateName>
+            <ImageWidth>1100</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <PlayPause>true</PlayPause>
+            <PublishFileName>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Css_Slider_Files/cssslider.html</PublishFileName>
+            <PublishIndex>cssslider.html</PublishIndex>
+            <PublishPath>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Css_Slider_Files</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>60</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>false</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateFont>Open Sans Condensed</TemplateFont>
+            <TemplateName>basic</TemplateName>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <WatermarkAlign>66</WatermarkAlign>
+            <WatermarkBgColor>#ffffff</WatermarkBgColor>
+            <WatermarkColor>#514242</WatermarkColor>
+            <WatermarkHaveBgColor>true</WatermarkHaveBgColor>
+            <WatermarkImage></WatermarkImage>
+            <WatermarkOpacity>80</WatermarkOpacity>
+            <WatermarkText>cssSlider.com</WatermarkText>
+            <WatermarkType>1</WatermarkType>
+            <color>#CBECFD</color>
+            <descriptionPos>bottomLeft</descriptionPos>
+            <enableTouch>false</enableTouch>
+            <fullWidth>0</fullWidth>
+            <ieSupport>true</ieSupport>
+            <noFrame>false</noFrame>
+            <showHover>true</showHover>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Base Dados/Home_Slider/Counter_Strike_Global_Offensive.jpg</url>
+                <title>One of the best Fps out there...</title>
+                <userurl>CSGO_LINK</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Base Dados/Home_Slider/dead_rising_3_game-wide.jpg</url>
+                <title>For Big Games , One Smal Price</title>
+                <userurl>dead_rising_3_LINK</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Base Dados/Home_Slider/Gta_5.jpg</url>
+                <title>Pre-Purchase GTA V, Here on your store</title>
+                <userurl>Gta_5_link</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Base Dados/Home_Slider/thief-game-wallpaper-hd.jpg</url>
+                <title>Looking for recommendations?...Here you have it Thief</title>
+                <userurl>Theif_link</userurl>
+            </Image>
+            <Image>
+                <url>C:/Users/Barragon/Desktop/Pen()16GB/PAP/WebSite/Base Dados/Home_Slider/watchdogs.jpg</url>
+                <title>Get it On the Action, Hack to Escape</title>
+                <userurl>Watchdogs_link</userurl>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
